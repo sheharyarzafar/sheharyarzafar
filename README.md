@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sheharyarzafar.
+- 👀 I’m interested in deriving actionable insights from data.
+- 🌱 I’m currently learning new tools and technologies involved in BI lifecycle.
+- 📫 Reach me at sheharyar.zafar@outlook.com
